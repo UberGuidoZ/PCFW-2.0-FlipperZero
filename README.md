@@ -218,3 +218,4 @@ all details shown: key, fix, hop, etc.). Then I can calculate all data for Sub-G
 
 https://youtu.be/cXxfYd92_Co?si=Tu-ZKQmLVCKWHZN0
 
+Session 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
