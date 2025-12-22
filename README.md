@@ -218,6 +218,12 @@ all details shown: key, fix, hop, etc.). Then I can calculate all data for Sub-G
 
 https://youtu.be/cXxfYd92_Co?si=Tu-ZKQmLVCKWHZN0
 
-Session 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
+Many of you are asking about the password and truth be told too many people will misuse this for nefarious purposes regardless of any warnings against it. If you are a developer or wish to tinker around with your own equipment you can get in touch and we can discuss and I may just grant you access. 
 
-Jabber  l0m1s@xmpp.jp
+Session 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
+Jabber l0m1s@xmpp.jp
+
+Feel free to donate to the cause
+
+BTC bc1qhkf2ql7hfddttjgyfa6qngldmkhqeryahqm537
+XMR 8BB4qcYMtbjADZ6p4bfDvhebm5Mdp7NpN42pRmAGJ36ZeRLayRsuJEuAu9vX7M8LUCXPj3Ekr99dadgafJ2yk1FhSEFoAPL
