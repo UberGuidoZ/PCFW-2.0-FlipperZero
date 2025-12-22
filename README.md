@@ -227,4 +227,5 @@ Jabber l0m1s@xmpp.jp
 Feel free to donate to the cause
 
 BTC bc1qhkf2ql7hfddttjgyfa6qngldmkhqeryahqm537
+
 XMR 8BB4qcYMtbjADZ6p4bfDvhebm5Mdp7NpN42pRmAGJ36ZeRLayRsuJEuAu9vX7M8LUCXPj3Ekr99dadgafJ2yk1FhSEFoAPL
