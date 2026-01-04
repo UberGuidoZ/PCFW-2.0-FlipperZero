@@ -215,6 +215,7 @@ all details shown: key, fix, hop, etc.). Then I can calculate all data for Sub-G
 
 ![004](https://github.com/user-attachments/assets/33157035-f175-4992-8efb-c6d3dfbfe2bc)
 
+### From OP, not me... ###
 
 https://youtu.be/cXxfYd92_Co?si=Tu-ZKQmLVCKWHZN0
 
